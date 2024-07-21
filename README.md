@@ -78,7 +78,7 @@ You can install additional Python libraries using `pip` or `apt-get` commands. F
 
 ## Google Colab
 
-<a href="https://colab.research.google.com/github/AshutoshGoswami24" target="_blank">
+<a href="https://colab.research.google.com/github/xohayet" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:200px;"/>
 </a>
 
